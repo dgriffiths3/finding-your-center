@@ -1,4 +1,4 @@
-numpy==1.17.2              
+numpy==1.22.0              
 opencv-python==4.1.0.25            
 plyfile==0.7.1               
 progressbar==2.5                 
